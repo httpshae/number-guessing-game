@@ -2,7 +2,7 @@
 
 # Author: Shae Ferguson
 
-## Description
+# Description
 This is a simple command-line game developed in Java where the player must guess a randomly generated number between 1-100.
 
 This program implements the number guessing game found at: https://roadmap.sh/projects/number-guessing-game
@@ -33,3 +33,14 @@ This program implements the number guessing game found at: https://roadmap.sh/pr
         - Run game again
     - Else
         - Display "Thank you for playing!"
+
+# How to run this program locally
+
+1. Clone the git repo: https://github.com/httpshae/number-guessing-game.git
+
+2. Compile the program: Open a terminal and navigate to the project directory. Run the following command to compile all the Java files:
+>javac *.java
+
+3. After compiling, run the main class using the following command:
+>java Main
+
